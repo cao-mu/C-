@@ -1,0 +1,9 @@
+invalid operand types int * and int
+such as:
+#include <stdio.h>
+int main( )
+{
+	void y1(int a[],int *max,in t*min)
+  //intput
+  y1(a[110],&x,&y)  //a[100] is a integer and not is address
+}
